@@ -9,6 +9,15 @@ body{
 section{
 
 }
+.card-logo img{
+	width: 20%;
+	
+
+}
+.Parceiros{
+	width: 100%;
+	height: 900px;
+}
 
 #sumario{
 	width: 100%;
@@ -17,13 +26,13 @@ section{
 	position: fixed;
 }
 
-ul{
+#sumario ul{
 	display: flex;
 	justify-content: flex-end;
 
 }
 
-li{
+#sumario li{
 	list-style-type: none;
 	color: #FFFFFF;
 	margin: 15px;
@@ -106,6 +115,13 @@ header img{
 }
 
 .lado{
+	width: 20%;
+	height: 2280px;
+	background-color: #F3F3F3;
+	float: left;
+	
+}
+nav{
 	width: 20%;
 	height: 2280px;
 	background-color: #F3F3F3;
